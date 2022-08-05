@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ziyad tareq</h1>
 <h3 align="center">A passionate software developer from Egypt</h3>
 
